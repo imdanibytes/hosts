@@ -5,6 +5,9 @@
 # This file intends to add additional bad hosts i've found on top of https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts
 #
 
+# Sus sites
+0.0.0.0 sionscormation.org
+
 # Generic ad hosts
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 clcktrck.com
