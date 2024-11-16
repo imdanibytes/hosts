@@ -9,6 +9,8 @@
 0.0.0.0 sionscormation.org
 0.0.0.0 www.mywondertrip.com
 0.0.0.0 omnidesk.ru
+0.0.0.0 originatedmedia.com
+0.0.0.0 testing.originatedmedia.com
 
 # Generic ad hosts
 0.0.0.0 s.click.aliexpress.com
@@ -58,6 +60,8 @@
 0.0.0.0 alfelixstownrus.org
 0.0.0.0 ohgorbqcegig.com
 0.0.0.0 db.wattapeteabowl.shop
+0.0.0.0 ak.newsiesherbose.top
+0.0.0.0 p.jwalf.com
 
 # Potentially dangerous hosts
 0.0.0.0 objectstorage.ap-mumbai-1.oraclecloud.com
@@ -68,6 +72,9 @@
 0.0.0.0 godagichi.com
 0.0.0.0 psegeevalrat.net
 0.0.0.0 www.avalancheofnews.com
+0.0.0.0 arb2024.com
+0.0.0.0 ashgabat-tours.com
+0.0.0.0 shant-bqd.com
 
 # Deceptive sites
 0.0.0.0 afazaibsie.com
@@ -101,3 +108,4 @@
 0.0.0.0 www.kidshealthplay.com
 0.0.0.0 www.share365.net
 0.0.0.0 www.rewardany.com
+0.0.0.0 www.chicagomag.com
