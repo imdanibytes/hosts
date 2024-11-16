@@ -1,0 +1,17 @@
+# Custom hosts
+# Created by: https://github.com/imdanibytes
+
+# Preditory ad hosts
+0.0.0.0 arminius.io
+0.0.0.0 www.arminius.io
+0.0.0.0 xf.strodecheese.top
+0.0.0.0 sw.gaultdunt.shop
+0.0.0.0 luglawhaulsano.net
+0.0.0.0 bv.ameencarpid.shop
+0.0.0.0 mt.deaconsindraft.top
+
+# Potentially dangerous hosts
+0.0.0.0 objectstorage.ap-mumbai-1.oraclecloud.com
+
+# Deceptive sites
+0.0.0.0 afazaibsie.com
