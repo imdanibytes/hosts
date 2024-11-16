@@ -7,6 +7,8 @@
 
 # Sus sites
 0.0.0.0 sionscormation.org
+0.0.0.0 www.mywondertrip.com
+0.0.0.0 omnidesk.ru
 
 # Generic ad hosts
 0.0.0.0 s.click.aliexpress.com
@@ -57,6 +59,7 @@
 0.0.0.0 v3.qrlsx.com
 0.0.0.0 alfelixstownrus.org
 0.0.0.0 ohgorbqcegig.com
+0.0.0.0 db.wattapeteabowl.shop
 
 # Potentially dangerous hosts
 0.0.0.0 objectstorage.ap-mumbai-1.oraclecloud.com
