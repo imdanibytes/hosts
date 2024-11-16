@@ -1,5 +1,7 @@
 # Custom hosts
 # Created by: https://github.com/imdanibytes
+# Get the latest version of this file: https://raw.githubusercontent.com/imdanibytes/hosts/mainline/hosts
+#
 
 # Preditory ad hosts
 0.0.0.0 arminius.io
@@ -12,9 +14,15 @@
 0.0.0.0 ak.maivoujeethoru.net
 0.0.0.0 cp.pteleaspiring.top
 0.0.0.0 xapi.juicyads.com
+0.0.0.0 rn.asepsismummify.shop
+0.0.0.0 scaletrk.com
+0.0.0.0 phoenixmedia.scaletrk.com
+0.0.0.0 swedishhugh.top
+0.0.0.0 zq.grampermilwell.top
 
 # Potentially dangerous hosts
 0.0.0.0 objectstorage.ap-mumbai-1.oraclecloud.com
 
 # Deceptive sites
 0.0.0.0 afazaibsie.com
+0.0.0.0 adblock-offer-download.com
