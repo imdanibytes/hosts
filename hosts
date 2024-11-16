@@ -2,6 +2,15 @@
 # Created by: https://github.com/imdanibytes
 # Get the latest version of this file: https://raw.githubusercontent.com/imdanibytes/hosts/mainline/hosts
 #
+# This file intends to add additional bad hosts i've found on top of https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-social/hosts
+#
+
+# Generic ad hosts
+0.0.0.0 s.click.aliexpress.com
+0.0.0.0 clcktrck.com
+0.0.0.0 905trk.com
+0.0.0.0 lg-dbr.provenpixel.com
+0.0.0.0 tg-32-0.914trk.com
 
 # Preditory ad hosts
 0.0.0.0 arminius.io
@@ -33,16 +42,26 @@
 0.0.0.0 hologydenoughta.info
 0.0.0.0 isolatedovercomepasted.com
 0.0.0.0 insistpeerbeef.com
+0.0.0.0 tegleebs.com
+0.0.0.0 sb.chiasseeress.top
+0.0.0.0 ss.tondiisthmi.top
+0.0.0.0 pornxp.click
+0.0.0.0 zq.shallalflexors.top
 
 # Potentially dangerous hosts
 0.0.0.0 objectstorage.ap-mumbai-1.oraclecloud.com
 0.0.0.0 filter.a1.0network.com
 0.0.0.0 filter.leoyard.com
 0.0.0.0 onlinefliphtml5.com
+0.0.0.0 28862304-17845-1307.2526june2024.com
+0.0.0.0 godagichi.com
+0.0.0.0 psegeevalrat.net
+0.0.0.0 www.avalancheofnews.com
 
 # Deceptive sites
 0.0.0.0 afazaibsie.com
 0.0.0.0 adblock-offer-download.com
+0.0.0.0 get.adblock-downloads.com
 0.0.0.0 ww2.glenbriergoldens.com
 0.0.0.0 acrpoker.eu
 0.0.0.0 digital.acrpoker.eu
@@ -69,3 +88,5 @@
 0.0.0.0 mesotheliomaex.com
 0.0.0.0 www.mesotheliomaex.com
 0.0.0.0 www.kidshealthplay.com
+0.0.0.0 www.share365.net
+0.0.0.0 www.rewardany.com
